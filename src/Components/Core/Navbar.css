@@ -1,0 +1,25 @@
+.navbar-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .navbar-list li {
+    margin-right: 20px;
+  }
+  
+  .navbar-list li:last-child {
+    margin-right: 0;
+  }
+  
+  .navbar-list li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .navbar-list li a:hover {
+    color: blue; }
+  
