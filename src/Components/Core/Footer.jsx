@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="footer flex justify-center items-center ">
     
       <p className="text-newteamparagraph text-xs">
-      © 2024 Malela Idjabe Makuale. Desarrollado con React y Tailwind. Actualizado en mayo de 2024.
+      © 2024 <a href="https://malelaidjabemakuale.netlify.app/">Malela Idjabe Makuale.</a> Desarrollado con React y Tailwind. Actualizado en mayo de 2024.
       </p>
     </div>
   );
